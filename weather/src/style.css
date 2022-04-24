@@ -1,0 +1,24 @@
+h1 {
+  text-transform: capitalize;
+}
+
+.border {
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 20px;
+  max-width: 800px;
+  background: yellowgreen;
+}
+
+.search-bar {
+}
+.container {
+  border: 5px 5px red;
+  padding-bottom: 10px;
+}
+
+.card {
+  border: none;
+
+  margin: 2px;
+}
